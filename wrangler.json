@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bus-service",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4e26f343-574e-4bef-8ac4-0f2cb961c2ed",
+			"database_name": "bus_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
